@@ -23,3 +23,7 @@ If I were to do this again now I would:
 3. Folds would be used for the ensemble
 
 4. Other transformations would also be used 
+
+
+Mean AUC ROC of winners
+![image](https://user-images.githubusercontent.com/22745975/165120586-dc86e352-9112-463b-9c70-e31ca09dfb8c.png)
