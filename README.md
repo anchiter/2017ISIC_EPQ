@@ -12,7 +12,7 @@ The ensemble model was trained for 10 epochs using Adam and a constant learning 
 
 Further improvement: 
 I finished this project several months ago (first thing I did after finishing my deep learning nanodegree). 
-In this time that has passed my knowledge deepend. 
+In this time that has passed my knowledge deepened. 
 
 If I were to do this again now I would:
 
